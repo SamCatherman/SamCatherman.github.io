@@ -18,6 +18,7 @@ header {
 }
 h1 {
   font-size: 3em;
+  color: white;
 }
 
 a {
@@ -31,6 +32,10 @@ a {
 p{
   color: #e4e4e4;
   text-align: justify;
+}
+
+footer{
+  color: white;
 }
 
 img {
