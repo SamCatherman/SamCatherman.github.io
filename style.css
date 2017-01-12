@@ -51,7 +51,10 @@ img {
 }
 .projects{
   color: white;
-}
-/*#button {
   text-align: center;
-}*/
+}
+
+img.animated-gif{
+  width: 600px;
+  height: 400px;
+}
