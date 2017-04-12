@@ -20,7 +20,12 @@ h1 {
   font-size: 3em;
   color: white;
 }
-
+h2 {
+  color: white;
+}
+header a {
+  font-size: 2em;
+}
 a {
   text-decoration: none;
   color: white;
@@ -54,9 +59,15 @@ img {
   display: inline;
   float: right;
 }
-.projects{
+.projects {
   color: white;
   text-align: center;
+  font-size: 1.5em;
+}
+
+.projects h2 {
+  text-align: center;
+  padding: 0px;
 }
 
 img.animated-gif{
