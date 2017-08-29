@@ -1,4 +1,4 @@
-body {
+html body {
   background: url("images/background2.jpg");
   margin: auto;
   width: 70em;
@@ -16,16 +16,21 @@ header {
   margin-bottom: 20px;
   font-weight: lighter;
 }
+
 h1 {
   font-size: 3em;
   color: white;
 }
-h2 {
+
+h2, h3 {
   color: white;
 }
+
 header a {
   font-size: 2em;
 }
+
+
 a {
   text-decoration: none;
   color: white;
@@ -34,6 +39,11 @@ a {
   text-align: center;
   font-weight: bold;
 }
+
+a:hover {
+  color: #FFA500;
+}
+
 p{
   color: #e4e4e4;
   text-align: justify;
@@ -73,4 +83,9 @@ img {
 img.animated-gif{
   width: 600px;
   height: 400px;
+}
+
+#button {
+  font-weight: bold;
+  color: #FFA500;
 }
