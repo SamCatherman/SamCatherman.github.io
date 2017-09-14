@@ -89,6 +89,11 @@ img.animated-gif{
   height: 400px;
 }
 
+img {
+  width: 600px;
+  height: 400px;
+}
+
 #button {
   font-weight: bold;
   color: #FFA500;
