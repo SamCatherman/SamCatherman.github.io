@@ -1,5 +1,9 @@
 html body {
-  background: url("images/background2.jpg");
+  background: url("images/background5.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   margin: auto;
   width: 75%;
   text-align: justify;
